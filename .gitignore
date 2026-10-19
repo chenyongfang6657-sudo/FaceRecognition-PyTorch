@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+face_env/
+
+# Dataset / personal images
+dataset/
+
+# PyTorch models
+*.pth
+*.pt
+*.ckpt
+
+# TensorBoard
+runs/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
